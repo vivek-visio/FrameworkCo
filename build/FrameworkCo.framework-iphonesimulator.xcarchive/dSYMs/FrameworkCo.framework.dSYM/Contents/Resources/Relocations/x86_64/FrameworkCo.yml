@@ -1,0 +1,17 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/visioapps/Library/Developer/Xcode/DerivedData/FrameworkCo-dwpdzpiurshuovgeclqzegrykzij/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkCo/InstallationBuildProductsLocation/Library/Frameworks/FrameworkCo.framework/FrameworkCo'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x303DF, size: 0x8, addend: 0x0, symName: _FrameworkCoVersionString, symObjAddr: 0x0, symBinAddr: 0xE50, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x30414, size: 0x8, addend: 0x0, symName: _FrameworkCoVersionNumber, symObjAddr: 0x30, symBinAddr: 0xE80, symSize: 0x0 }
+  - { offsetInCU: 0x2B, offset: 0x30455, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKC7apiKeys33_EB66B6FE42E9FE95FEC207F354B82B39LL_WZ', symObjAddr: 0x0, symBinAddr: 0xB10, symSize: 0x30 }
+  - { offsetInCU: 0x4F, offset: 0x30479, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKC13isAPIKeyValid33_EB66B6FE42E9FE95FEC207F354B82B39LLSbvpZ', symObjAddr: 0x2E98, symBinAddr: 0x2170, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x30493, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKC7apiKeys33_EB66B6FE42E9FE95FEC207F354B82B39LLSaySSGvpZ.0', symObjAddr: 0x2EA8, symBinAddr: 0x2180, symSize: 0x0 }
+  - { offsetInCU: 0x77, offset: 0x304A1, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKC7apiKeys33_EB66B6FE42E9FE95FEC207F354B82B39LL_WZ', symObjAddr: 0x0, symBinAddr: 0xB10, symSize: 0x30 }
+  - { offsetInCU: 0x29F, offset: 0x306C9, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x260, symBinAddr: 0xD70, symSize: 0x40 }
+  - { offsetInCU: 0x2B3, offset: 0x306DD, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKCMa', symObjAddr: 0x2D0, symBinAddr: 0xDE0, symSize: 0x20 }
+  - { offsetInCU: 0x44C, offset: 0x30876, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKC9configure6apiKeyySS_tFZ', symObjAddr: 0x30, symBinAddr: 0xB40, symSize: 0x100 }
+  - { offsetInCU: 0x664, offset: 0x30A8E, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKC10doSomeWorkyyFZ', symObjAddr: 0x130, symBinAddr: 0xC40, symSize: 0x130 }
+  - { offsetInCU: 0x749, offset: 0x30B73, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKCfd', symObjAddr: 0x2A0, symBinAddr: 0xDB0, symSize: 0x10 }
+  - { offsetInCU: 0x76C, offset: 0x30B96, size: 0x8, addend: 0x0, symName: '_$s11FrameworkCo3SDKCfD', symObjAddr: 0x2B0, symBinAddr: 0xDC0, symSize: 0x20 }
+...

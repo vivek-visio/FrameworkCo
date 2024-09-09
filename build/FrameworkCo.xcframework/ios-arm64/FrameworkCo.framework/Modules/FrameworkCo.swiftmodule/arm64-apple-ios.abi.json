@@ -1,0 +1,101 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FrameworkCo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SDK",
+        "printedName": "SDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(apiKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11FrameworkCo3SDKC9configure6apiKeyySS_tFZ",
+            "mangledName": "$s11FrameworkCo3SDKC9configure6apiKeyySS_tFZ",
+            "moduleName": "FrameworkCo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "doSomeWork",
+            "printedName": "doSomeWork()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11FrameworkCo3SDKC10doSomeWorkyyFZ",
+            "mangledName": "$s11FrameworkCo3SDKC10doSomeWorkyyFZ",
+            "moduleName": "FrameworkCo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11FrameworkCo3SDKC",
+        "mangledName": "$s11FrameworkCo3SDKC",
+        "moduleName": "FrameworkCo",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/visioapps\/Desktop\/CocoapodsCo\/FrameworkCo\/FrameworkCo\/SDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 170,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/visioapps\/Desktop\/CocoapodsCo\/FrameworkCo\/FrameworkCo\/SDK.swift",
+      "kind": "Array",
+      "offset": 214,
+      "length": 31,
+      "value": "[\"privateKey123\"]"
+    }
+  ]
+}

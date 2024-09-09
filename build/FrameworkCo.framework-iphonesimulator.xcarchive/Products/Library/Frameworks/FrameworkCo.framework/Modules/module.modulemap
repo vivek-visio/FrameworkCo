@@ -1,0 +1,6 @@
+framework module FrameworkCo {
+  umbrella header "FrameworkCo.h"
+  export *
+
+  module * { export * }
+}
